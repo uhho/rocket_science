@@ -1,0 +1,23 @@
+{
+    "mixture_mass_ratio": 2.36,
+    "lox_density": 1141,
+    "rp1_density": 1020,
+    "stages": [
+        {
+            "isp": 282,
+            "thrust": 845000,
+            "burn_time": 162,
+            "dry_mass": 25600,
+            "fuel_volume": 398887,
+            "fuel_mass": 440765
+        },
+        {
+            "isp": 346,
+            "thrust": 934000,
+            "burn_time": 397,
+            "dry_mass": 4000,
+            "fuel_volume": 108185,
+            "fuel_mass": 119543
+        }
+    ]
+}

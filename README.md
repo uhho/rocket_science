@@ -6,3 +6,4 @@ Set of equations and useful scripts for calculating rocket parameters
 - [gravity_well.ipynb](./gravity_well.ipynb) - Calculating gravitational acceleration profile
 - [thrust_to_weight.ipynb](./thrust_to_weight.ipynb) - Calculating thrust to weight
 - [orbital_speed.ipynb](./orbital_speed.ipynb) - Calculating orbital speed
+- [velocity_and_distance.ipynb](./velocity_and_distance.ipynb) - Calculating rocket velocity, distance and altitude

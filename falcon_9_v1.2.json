@@ -4,6 +4,7 @@
     "rp1_density": 1020,
     "stages": [
         {
+            "engines": 9,
             "isp": 282,
             "thrust": 845000,
             "burn_time": 162,
@@ -12,6 +13,7 @@
             "fuel_mass": 440765
         },
         {
+            "engines": 1,
             "isp": 346,
             "thrust": 934000,
             "burn_time": 397,

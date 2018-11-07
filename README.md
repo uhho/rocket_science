@@ -8,3 +8,5 @@ Several jupyter notebooks covering most important aspects of Rocket Science and 
 - [orbital_speed.ipynb](./orbital_speed.ipynb) - Calculating orbital speed
 - [velocity_and_distance.ipynb](./velocity_and_distance.ipynb) - Calculating rocket velocity, distance and altitude
 - [max_q.ipynb](./max_q.ipynb) - Calculating maximum dynamic pressure (Max Q)
+
+![delta v](falcon_9_delta_v.jpg)
